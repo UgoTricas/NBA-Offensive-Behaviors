@@ -57,4 +57,4 @@ Installer les bibliothèques nécessaires via pip :
 
 Utiliser Jupyter pour lancer le notebook :
 
-```jupyter notebook notebooks/nba_analysis_fr.ipynb```
+```jupyter notebook nba_offensive_behaviors_fr.ipynb```
