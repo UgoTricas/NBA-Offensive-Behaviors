@@ -4,8 +4,6 @@
 
 This data analysis project explores the evolution of shooting behaviors in the NBA between the 2003–2004 and 2023–2024 regular seasons.
 
-The analysis relies on detailed public data, available on [Kaggle](https://www.kaggle.com/datasets/mexwell/nba-shots/data), and highlights spatial, positional, and individual trends through visualizations.
-
 Two notebooks are provided:
 
 * `nba_offensive_behaviors_en.ipynb` : [English version](nba_offensive_behaviors_en.ipynb)
